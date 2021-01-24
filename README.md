@@ -2,7 +2,7 @@
 ## Overview of the school district analysis: 
 The school board discovered that the students_complete.csv file shows evidence of academic dishonesty. The math and reading grades of ninth graders have been adjusted in Thomas High School. The school board request is prepare written report to describe how the math and reading grades replace with NaN in Thomas High School will affect the overall analysis.
 
-## Results: Using bulleted lists and images of DataFrames as support, address the following questions.
+## Results: 
 ### Deliverable 1: Replace the reading and math scores.
 Replace the 9th grade reading and math scores at Thomas High School with NaN.
 
@@ -27,30 +27,48 @@ Step 1. Combine the data (student_data and school_data)into a single dataset.
 ![Combine_the_data](Combine_the_data.png)
 
 Step 2. Calculate tootal numbers of schools, students and the total budget.
-Schools: 15
-Students: 39,170
-The Total Budget: $24,649.428
+<br>Schools: 15</br>
+<br>Students: 39,170</br>
+<br>The Total Budget: $24,649.428</br>
 
 Step 3. Calculate the Average Scores using the "clean_student_data".
-Average reading score is 81.85579580976001;
-Average math score is 78.93053295099331.
+<br>Average of clean reading score is 81.85579580976001 compare to original school data 81.87784018381414. The dirrence is 0.02204437405413;</br>
+<br>Average of clean math score is 78.93053295099331 compare to original school data 78.98537145774827. The dirrence is 0.05483850675496.</br>
+
+Please see below average reading and math scores from original school data:
+
+![the_average](the_average.png)
+
 
 Step 4. Get the number of students that are in ninth grade at Thomas High School.
 Total number of students in 9th grade at Thomas High School is 461. Which is 1.06% 9th grade students from 39,170 students.
 
-Step 5. Subtract the number of students that are in ninth grade at Thomas High School from the total student count to get the new total student count.
-
 ![THS_9_count](THS_9_count.png)
 
-39,170 - 38,709 = 38,709
+Step 5. Subtract the number of students that are in ninth grade at Thomas High School from the total student count to get the new total student count.
 
-- How is the district summary affected?
+39,170 - 461 = 38,709
 
+or we can calculate the new total student number as below:
 
+![new_student_count](new_student_count.png)
 
+Step 6. Calculate the passing rates using the "clean_student_data".
+
+<bk>Passing math count in the clean student data is 28,939 which is 74.76% compare to original passing math count 29,370 which is 74,98%.</bk>
+<bk>Passing reading count in the clean student data is 33,158. which  is 85.65% compare to original passing reading count 33610 which is 85.80%..</bk>
+
+As a result, the district summary with the clean student data did affect approx. -0.3% on the data results. 
+
+Overall passing percentage is 64.9% compare to the orogonal data 65.2%. The difference is 0.3%.
+
+Please see below the district summary:
+
+![district_summary](district_summary.png)
+
+### Thomas High School Summary
 - How is the school summary affected?
 
-![the_school_summary](the_school_summary.png)
 
 - How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
 
