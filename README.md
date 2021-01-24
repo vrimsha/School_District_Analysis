@@ -32,7 +32,7 @@ Step 1. Combine the data (student_data and school_data)into a single dataset.
 <br>The Total Budget: $24,649.428</br>
 
 <br>Step 3. Calculate the Average Scores using the "clean_student_data".</br>
-<br>Average of clean reading score is 81.85579580976001 compare to original school data 81.87784018381414. The dirrence is 0.02204437405413;</br>
+<br>Average of clean reading score is 81.85579580976001 compare to original school data 81.87784018381414. The dirrence is 0.02204437405413.</br>
 <br>Average of clean math score is 78.93053295099331 compare to original school data 78.98537145774827. The dirrence is 0.05483850675496.</br>
 
 Please see below average reading and math scores from original school data:
@@ -64,6 +64,10 @@ Please see below the district summary:
 
 ### School Summary
 - How is the school summary affected?
+Please see below per the origial School Summary:
+
+![Original_per_school_summary](Original_per_school_summary.png)
+
 Please see below per School Summary:
 
 ![per_school_summary](per_school_summary.png)
@@ -71,10 +75,6 @@ Please see below per School Summary:
 Please see below spending summary:
 
 ![spending_summary](spending_summary.png)
-
-Please see below per school summary:
-
-![per_school_summary_1](per_school_summary_1.png)
 
 ![size_summary](size_summary.png)
 
