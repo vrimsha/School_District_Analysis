@@ -1,6 +1,6 @@
 # School_District_Analysis
 ## Overview of the school district analysis: 
-The school board discovered that the students_complete.csv file shows evidence of academic dishonesty. The math and reading grades of ninth graders have been adjusted in Thomas High School. The school board request is prepare written report to describe how the math and reading grades replace with NaN in Thomas High School will affect the overall analysis.
+The school board discovered that the students_complete.csv file shows evidence of academic dishonesty. The math and reading grades of ninth graders have been adjusted in Thomas High School. The school board request is preparing written report to describe how the math and reading grades replace with NaN in Thomas High School will affect the overall analysis.
 
 ## Results: 
 ### Deliverable 1: Replace the reading and math scores.
@@ -26,14 +26,14 @@ Step 1. Combine the data (student_data and school_data)into a single dataset.
 
 ![Combine_the_data](Combine_the_data.png)
 
-<br>Step 2. Calculate tootal numbers of schools, students and the total budget.</br>
+<br>Step 2. Calculate total numbers of schools, students and the total budget.</br>
 <br>Schools: 15</br>
 <br>Students: 39,170</br>
 <br>The Total Budget: $24,649.428</br>
 
 <br>Step 3. Calculate the Average Scores using the "clean_student_data".</br>
-<br>Average of clean reading score is 81.85579580976001 compare to original school data 81.87784018381414. The dirrence is 0.02204437405413.</br>
-<br>Average of clean math score is 78.93053295099331 compare to original school data 78.98537145774827. The dirrence is 0.05483850675496.</br>
+<br>Average of clean reading score is 81.85579580976001 compare to original school data 81.87784018381414. The difference is 0.02204437405413.</br>
+<br>Average of clean math score is 78.93053295099331 compare to original school data 78.98537145774827. The difference is 0.05483850675496.</br>
 
 Please see below average reading and math scores from original school data:
 
@@ -52,9 +52,9 @@ Step 5. Subtract the number of students that are in ninth grade at Thomas High S
 Step 6. Calculate the passing rates using the "clean_student_data".
 
 <bk>Passing math count from the clean student data is 28,939 which is 74.76% compare to original passing math count 29,370 which is 74,98%.</bk>
-<bk>Passing reading count from the clean student data is 33,158. which  is 85.65% compare to original passing reading count 33610 which is 85.80%..</bk> 
+<bk>Passing reading count from the clean student data is 33,158. which  is 85.65% compare to original passing reading count 33610 which is 85.80%.</bk> 
 
-Overall passing percentage is 64.9% compare to the orogonal data 65.2%. The difference is 0.3%.
+Overall passing percentage is 64.9% compare to the oroiginal data 65.2%. The difference is 0.3%.
 
 As a result, the district summary with the clean student data did affect approx. on 0.3% on the data results.
 
@@ -75,11 +75,11 @@ Please see below how replacing the ninth graders’ math and reading scores affe
 
 #### 1. Math and reading scores by grade
 
-Math scores by garde:
+Math scores by grade:
 
 ![math_scores_by_grade](math_scores_by_grade.png)
 
-Reading scores by garde:
+Reading scores by grade:
 
 ![reading_scores_by_grade](reading_scores_by_grade.png)
 
@@ -130,5 +130,5 @@ The four major changes in the updated school district analysis after reading and
 
 3. Thomas High School spending range per student is $630-$644. It is Charter school type with medium school size from 1000 to 2000 students. The Charter schools have higher score results compare to District school type. 
 
-4. Overall passing percentage is 64.9% compare to the orogonal data 65.2%. The difference is 0.3%.
+4. Overall passing percentage is 64.9% compare to the original data 65.2%. The difference is 0.3%.
 
