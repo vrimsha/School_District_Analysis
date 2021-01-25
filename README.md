@@ -116,13 +116,13 @@ The four major changes in the updated school district analysis after reading and
 
 2.  Math and reading scores by grade:
 
-- <br>Thomas High School math scores:<br>
+- Thomas High School math scores:
 <br>Grade 9th: NaNs<br>
 <br>Grade 10th: 83.1%<br>
 <br>Grade 11th: 83.5%<br>
 <br>Grade 12th: 83.5% <br>
 
-- <br>Thomas High School reading scores:<br>
+- Thomas High School reading scores:
 <br>Grade 9th: NaNs<br>
 <br>Grade 10th: 84.3%<br>
 <br>Grade 11th: 83.6%<br>
