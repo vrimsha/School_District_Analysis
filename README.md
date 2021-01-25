@@ -105,22 +105,24 @@ The four major changes in the updated school district analysis after reading and
 
 <bk>The school summary was affected slightly, only in % of passing math, reading, and overall passing scores at the Thomas High School.</bk>
 
-1. % of passing math, reading, and overall passing scores went high up at the Thomas High School for 38,709 students compare to total number of students 39,170:
+1. % of passing math, reading, and overall passing scores went high up at the Thomas High School for 38,709 students compare to original total number of students 39,170:
 
-When I replaced 461 9th grade students with Nan, % went up high in passing math, reading and overall scores:
+-   When I replaced 461 9th grade students with Nan, % went up high in passing math,      reading and overall scores:
 <br>% Passing math score went up by 26.3% from 66.9% to 93.2%.</br>
 <br>% Passing reading score went up by 27.3% from 69.7% to 97.0% </br>
 <br>% Overall passing score went up by 25.1% from 65.0% to 90.1%</br>
 
+    As a conclusion the Thomas High School scores supposed to be higher approx. by 26.2%.
+
 2.  Math and reading scores by grade:
 
-<br>Thomas High School math scores:<br>
+- <br>Thomas High School math scores:<br>
 <br>Grade 9th: NaNs<br>
 <br>Grade 10th: 83.1%<br>
 <br>Grade 11th: 83.5%<br>
 <br>Grade 12th: 83.5% <br>
 
-<br>Thomas High School reading scores:<br>
+- <br>Thomas High School reading scores:<br>
 <br>Grade 9th: NaNs<br>
 <br>Grade 10th: 84.3%<br>
 <br>Grade 11th: 83.6%<br>
@@ -128,5 +130,5 @@ When I replaced 461 9th grade students with Nan, % went up high in passing math,
 
 3. Thomas High School spending range per student is $630-$644. It is Charter school type with medium school size from 1000 to 2000 students. The Charter schools have higher score results compare to District school type. 
 
-4. As a conclusion the Thomas High School scores supposed to be higher approx. by 26.2%.
+4. Overall passing percentage is 64.9% compare to the orogonal data 65.2%. The difference is 0.3%.
 
