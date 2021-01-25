@@ -75,24 +75,31 @@ Please see below how replacing the ninth graders’ math and reading scores affe
 
 <br>% Passing math score went up by 26.3% from 66.9% to 93.2%.</br>
 <br>% Passing reading score went up by 27.3% from 69.7% to 97.0% </br>
-<be>% Overall passing score went up by 25.1% from 65.0% to 90.1%
+<be>% Overall passing score went up by 25.1% from 65.0% to 90.1%</br>
 
 ### How does replacing the ninth-grade scores affect the following:
 
-#### Math and reading scores by grade
+#### 1. Math and reading scores by grade
 
+![math_scores_by_grade](math_scores_by_grade.png)
 
-#### Scores by school spending
+![reading_scores_by_grade](reading_scores_by_grade.png)
 
+#### 2. Scores by school spending
 
-#### Scores by school size
+![spending_bins](spending_bins.png)
 
+![spending_summary_per_student](spending_summary_per_student.png)
 
-#### Scores by school type
+#### 3. Scores by school size
 
+![Categorize_spending_per_school_size](Categorize_spending_per_school_size.png)
 
+![Categorize_spending_per_school_size_summary](Categorize_spending_per_school_size_summary.png)
 
+#### 4. Scores by school type
 
+![Scores_by_school_type](Scores_by_school_type.png)
 
 ## Summary: 
 
