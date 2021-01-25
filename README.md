@@ -62,40 +62,38 @@ Please see below the district summary:
 
 ![district_summary](district_summary.png)
 
-### School Summary
-- How is the school summary affected?
-Please see below per the origial School Summary:
-
-![Original_per_school_summary](Original_per_school_summary.png)
-
+### School Summary 
 Please see below per School Summary:
 
 ![per_school_summary](per_school_summary.png)
 
-Please see below spending summary:
+Please see below how replacing the ninth graders’ math and reading scores affects Thomas High School’s performance relative to the other schools.
 
-![spending_summary](spending_summary.png)
+![per_school_summary_no9th_grade](per_school_summary_no9th_grade.png)
 
-![size_summary](size_summary.png)
+<bk>The school summary was affected slightly, only in % of passing math, reading, and overall passing scores at the Thomas High School.</bk>
 
-- How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
+<br>% Passing math score went up by 26.3% from 66.9% to 93.2%.</br>
+<br>% Passing reading score went up by 27.3% from 69.7% to 97.0% </br>
+<be>% Overall passing score went up by 25.1% from 65.0% to 90.1%
 
+### How does replacing the ninth-grade scores affect the following:
 
-- How does replacing the ninth-grade scores affect the following:
-
-    - Math and reading scores by grade
-
-
-    - Scores by school spending
+#### Math and reading scores by grade
 
 
-    - Scores by school size
+#### Scores by school spending
 
 
-    - Scores by school type
+#### Scores by school size
+
+
+#### Scores by school type
 
 
 
 
 
-3. Summary: Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
+## Summary: 
+
+Summarize four major changes in the updated school district analysis after reading and math scores for the ninth grade at Thomas High School have been replaced with NaNs.
